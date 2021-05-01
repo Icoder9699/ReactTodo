@@ -1,3 +1,3 @@
 # ReactTodo
-Todo-React-App
-simple todo app with React-state 
+Todo app with ReactJs
+
